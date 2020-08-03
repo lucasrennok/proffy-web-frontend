@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
+/.day1.zip
 .pnp.js
 
 # testing
