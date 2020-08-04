@@ -49,6 +49,7 @@
   .container{
       width: 90vw;
       max-width: 700px;
+      max-height: 100vh;
   }
 
   @media(min-width: 700px){
