@@ -1,6 +1,6 @@
 # Proffy Web Front-End
 
-![image](./readme_imgs/proffy.png)
+![image](https://github.com/lucasrennok/proffy-web-frontend/blob/master/readme_imgs/proffy.png)
 
 > Lucas Rennó Kallás
 
