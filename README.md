@@ -1,6 +1,6 @@
 # Proffy Web Front-End
 
-![proffy](/readme_imgs/proffy.png)
+![proffy](/readme_imgs/proffy.PNG)
 
 > Lucas Rennó Kallás
 
