@@ -23,17 +23,17 @@ Proffy has two options:
 ### > Want to Study?
 If you want to study click on the:
 
-![study](/readme_imgs/study.png)
+![study](/readme_imgs/study.PNG)
 
 #### What to do?
 Select the filters about what you want and press the green button.
 
-![filters](/readme_imgs/filters.png)
+![filters](/readme_imgs/filters.PNG)
 
 ### > Want to teach?
 If you want to teach click on the:
 
-![give_classes](/readme_imgs/give_classes.png)
+![give_classes](/readme_imgs/give_classes.PNG)
 
 #### What to do?
 You will have to sign-up at the site with your data and the subject which you will teach.
