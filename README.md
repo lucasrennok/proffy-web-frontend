@@ -1,6 +1,6 @@
 # Proffy Web Front-End
 
-![image](/readme_imgs/proffy.png)
+![proffy](/readme_imgs/proffy.png)
 
 > Lucas Rennó Kallás
 
@@ -23,17 +23,17 @@ Proffy has two options:
 ### > Want to Study?
 If you want to study click on the:
 
-![image](/readme_imgs/study.png)
+![study](/readme_imgs/study.png)
 
 #### What to do?
 Select the filters about what you want and press the green button.
 
-![image](/readme_imgs/filters.png)
+![filters](/readme_imgs/filters.png)
 
 ### > Want to teach?
 If you want to teach click on the:
 
-![image](/readme_imgs/give_classes.png)
+![give_classes](/readme_imgs/give_classes.png)
 
 #### What to do?
 You will have to sign-up at the site with your data and the subject which you will teach.
